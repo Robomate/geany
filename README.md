@@ -18,4 +18,4 @@ pip3 install -r requirements.txt --user
 
 ## others
 
-sudo apt-get install nmap && htop
+sudo apt-get install nmap && htop && openssh-server 
